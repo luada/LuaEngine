@@ -1,0 +1,5 @@
+-SRC Common\XLib\inc  -HOME Common\XLib\inc -PRJ XLib -PKG_PATH  __BuildOut__\Pkg\XLib -PCH pch.h -TLADD ToLua++\ -CFG __BuildOut__\Pkg\XLib\exportConfig.pkg -TOLUA -n XLib -o LuaExport\XLib\LuaWrap.cpp LuaExport\XLib\Main.pkg
+
+
+
+-SRC LuaWrap\inc  -HOME LuaWrap\inc -PRJ LuaWrap -PKG_PATH  BuildOut\Pkg\LuaWrap -PCH pch.h -CFG BuildOut\Pkg\LuaWrap\exportConfig.pkg -TOLUA -n LuaWrap -o LuaExport\LuaWrap\LuaWrap.cpp LuaExport\LuaWrap\Main.pkg

@@ -1,0 +1,1 @@
+OBJS = tolua_event.o tolua_is.o tolua_map.o tolua_push.o tolua_to.o

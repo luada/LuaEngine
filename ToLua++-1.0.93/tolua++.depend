@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1329274010 source:/home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/src/lib/tolua_map.c
+	"tolua++.h"
+	"tolua_event.h"
+	"lauxlib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1329653638 /home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/include/tolua++.h
+	"lua.h"
+	"lauxlib.h"
+
+1218029412 /home/luada/Documents/VMShare/LuaEngine/lua-5.1.4/src/lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1329627320 /home/luada/Documents/VMShare/LuaEngine/lua-5.1.4/src/luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198760545 /home/luada/Documents/VMShare/LuaEngine/lua-5.1.4/src/lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1133389887 /home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/src/lib/tolua_event.h
+	"tolua++.h"
+
+1160806691 source:/home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/src/lib/tolua_event.c
+	<stdio.h>
+	"tolua++.h"
+
+1209756037 source:/home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/src/lib/tolua_is.c
+	"tolua++.h"
+	"lauxlib.h"
+	<stdlib.h>
+	<string.h>
+
+1171075436 source:/home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/src/lib/tolua_push.c
+	"tolua++.h"
+	"lauxlib.h"
+	<stdlib.h>
+
+1226427289 source:/home/luada/Documents/VMShare/LuaEngine/tolua++-1.0.93/src/lib/tolua_to.c
+	"tolua++.h"
+	<string.h>
+	<stdlib.h>
+
+1160806691 source:/home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/src/lib/tolua_event.c
+	<stdio.h>
+	"tolua++.h"
+
+1332472571 /home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/include/tolua++.h
+	"lua.h"
+	"lauxlib.h"
+
+1352272570 /home/luada/Documents/VMShare/YXS/gameserver/source/lua-5.1.4/src/lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1353402933 /home/luada/Documents/VMShare/YXS/gameserver/source/lua-5.1.4/src/luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198760545 /home/luada/Documents/VMShare/YXS/gameserver/source/lua-5.1.4/src/lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1209756037 source:/home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/src/lib/tolua_is.c
+	"tolua++.h"
+	"lauxlib.h"
+	<stdlib.h>
+	<string.h>
+
+1329274010 source:/home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/src/lib/tolua_map.c
+	"tolua++.h"
+	"tolua_event.h"
+	"lauxlib.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1133389887 /home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/src/lib/tolua_event.h
+	"tolua++.h"
+
+1171075436 source:/home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/src/lib/tolua_push.c
+	"tolua++.h"
+	"lauxlib.h"
+	<stdlib.h>
+
+1226427289 source:/home/luada/Documents/VMShare/YXS/gameserver/source/tolua++-1.0.93/src/lib/tolua_to.c
+	"tolua++.h"
+	<string.h>
+	<stdlib.h>
+
+1353064617 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaJIT-2.0.0/src/lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1353064612 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaJIT-2.0.0/src/luaconf.h
+	<limits.h>
+	<stddef.h>
+	<assert.h>
+
+1350412200 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaJIT-2.0.0/src/lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+

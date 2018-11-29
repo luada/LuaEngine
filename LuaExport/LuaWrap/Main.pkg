@@ -1,0 +1,3 @@
+$pfile "LuaExport/LuaWrap/Type.pkg"
+$pfile "BuildOut/Pkg/LuaWrap/exportConfig.pkg"
+$pfile "LuaExport/LuaWrap/Inc.pkg"

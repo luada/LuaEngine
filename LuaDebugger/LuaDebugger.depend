@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1331289164 source:/home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/RemoteDebugger.cpp
+	"pch.h"
+	"RemoteDebugger.h"
+	<iostream>
+
+1329986205 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/pch.h
+
+1331289027 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/RemoteDebugger.h
+	<WinSock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/select.h>
+	<netdb.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<errno.h>
+	<fcntl.h>
+	"SimpleMutex.h"
+	"SimpleThread.h"
+
+1331287281 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/SimpleMutex.h
+	<windows.h>
+	<process.h>
+	<pthread.h>
+	<assert.h>
+
+1331288583 /home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/SimpleThread.h
+	<windows.h>
+	<process.h>
+	<pthread.h>
+
+1331288564 source:/home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/main.cpp
+	"pch.h"
+	"RemoteDebugger.h"
+
+1329986223 source:/home/luada/Documents/VMShare/YXS/gameserver/source/LuaDebugger/pch.cpp
+	"pch.h"
+

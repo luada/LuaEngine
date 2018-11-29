@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="lapi.c" open="0" top="0" tabpos="1">
+		<Cursor position="7810" topLine="343" />
+	</File>
+	<File name="lapi.h" open="0" top="0" tabpos="0">
+		<Cursor position="262" topLine="0" />
+	</File>
+	<File name="lauxlib.c" open="0" top="0" tabpos="8">
+		<Cursor position="2555" topLine="72" />
+	</File>
+	<File name="lauxlib.h" open="0" top="0" tabpos="1">
+		<Cursor position="5384" topLine="141" />
+	</File>
+	<File name="ldblib.c" open="0" top="0" tabpos="1">
+		<Cursor position="13619" topLine="518" />
+	</File>
+	<File name="ldebug.c" open="0" top="0" tabpos="7">
+		<Cursor position="15876" topLine="593" />
+	</File>
+	<File name="ldo.c" open="0" top="0" tabpos="2">
+		<Cursor position="9386" topLine="312" />
+	</File>
+	<File name="ldump.c" open="0" top="0" tabpos="0">
+		<Cursor position="319" topLine="8" />
+	</File>
+	<File name="lmem.c" open="0" top="0" tabpos="0">
+		<Cursor position="1936" topLine="52" />
+	</File>
+	<File name="lmem.h" open="0" top="0" tabpos="0">
+		<Cursor position="221" topLine="2" />
+	</File>
+	<File name="lstate.c" open="0" top="0" tabpos="0">
+		<Cursor position="3910" topLine="126" />
+	</File>
+	<File name="lstring.c" open="0" top="0" tabpos="0">
+		<Cursor position="2287" topLine="51" />
+	</File>
+	<File name="lua.h" open="0" top="0" tabpos="0">
+		<Cursor position="299" topLine="15" />
+	</File>
+	<File name="luaconf.h" open="1" top="0" tabpos="1">
+		<Cursor position="4887" topLine="136" />
+	</File>
+	<File name="lundump.c" open="0" top="0" tabpos="0">
+		<Cursor position="4257" topLine="201" />
+	</File>
+	<File name="lundump.h" open="0" top="0" tabpos="2">
+		<Cursor position="389" topLine="4" />
+	</File>
+	<File name="lvm.c" open="0" top="0" tabpos="0">
+		<Cursor position="11672" topLine="385" />
+	</File>
+	<File name="lvm.h" open="0" top="0" tabpos="0">
+		<Cursor position="284" topLine="0" />
+	</File>
+	<File name="print.c" open="0" top="0" tabpos="0">
+		<Cursor position="472" topLine="154" />
+	</File>
+</CodeBlocks_layout_file>

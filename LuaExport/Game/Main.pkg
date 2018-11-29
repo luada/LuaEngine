@@ -1,0 +1,3 @@
+$pfile "LuaExport/Game/Type.pkg"
+$pfile "BuildOut/Pkg/Game/exportConfig.pkg"
+$pfile "LuaExport/Game/Inc.pkg"

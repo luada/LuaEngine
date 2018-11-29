@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="DebugJIT" />
+	<File name="include/tolua++.h" open="0" top="0" tabpos="2">
+		<Cursor position="6336" topLine="127" />
+	</File>
+	<File name="src/lib/tolua_is.c" open="0" top="0" tabpos="0">
+		<Cursor position="6988" topLine="293" />
+	</File>
+	<File name="src/lib/tolua_map.c" open="0" top="0" tabpos="1">
+		<Cursor position="16950" topLine="676" />
+	</File>
+	<File name="src/lib/tolua_push.c" open="0" top="0" tabpos="0">
+		<Cursor position="3478" topLine="84" />
+	</File>
+</CodeBlocks_layout_file>
